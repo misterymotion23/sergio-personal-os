@@ -1,3 +1,21 @@
+# macOS
 .DS_Store
 **/.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude internal config
+.claude/
+
+# Agent workspace folders
+nimbalyst-local/
+
+# Editor files
+.vscode/
+.idea/
 *.swp
+*.swo
+
+# Temp files
+*.tmp
+*.bak
